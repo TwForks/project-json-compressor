@@ -8,5 +8,5 @@ Files inside `/vendor` folder have their own license files included along with t
 
 ## Credits
 
-Thanks to [Vadik1](https://github.com/Xeltalliv) for providing the original projectjson compressor.
+Thanks to [Vadik1](https://github.com/Xeltalliv) for providing the [original project json compressor](https://github.com/Xeltalliv/ScratchTools/tree/main/ProjectJsonMinimizerNew), which a LOT of this code is based & borrowed from.
 Thanks to [GarboMuffin](https://github.com/GarboMuffin) for providing [trampoline.turbowarp.org](https://trampoline.turbowarp.org/) proxy used in some of the tools.
